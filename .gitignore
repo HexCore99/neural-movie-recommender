@@ -1,0 +1,8 @@
+data/train.csv
+data/test.csv
+data/ml-20m.zip
+data/ml-20m/ratings.csv
+data/ml-20m/genome-scores.csv
+.venv/
+model/*.keras
+frontend/.git
